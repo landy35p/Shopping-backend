@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "B000000000",
+    "title": "Sony WH-1000XM1 Wireless Noise Cancelling Over-Ear Headphones Bluetooth 5.1",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 291.7,
+    "rating": 4.4,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000001",
+    "title": "Bose QuietComfort 15 Wireless Bluetooth Headphones Active Noise Cancelling",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 306.8,
+    "rating": 4.4,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000002",
+    "title": "Apple AirPods Pro (2nd Gen) with MagSafe USB-C Charging Case",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 266.66,
+    "rating": 4.8,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000003",
+    "title": "Sennheiser HD 150BT Wireless Headphones aptX Adaptive 30-Hour Battery",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 167.59,
+    "rating": 4.2,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000004",
+    "title": "JBL Tune 130TWS True Wireless Earbuds Hands-free Call 40H Battery",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 48.78,
+    "rating": 4.0,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000005",
+    "title": "Sony Alpha a1100 Full-Frame Mirrorless Camera Body E-Mount",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 1006.23,
+    "rating": 4.6,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000006",
+    "title": "Canon EOS R150 Mirrorless Camera with RF-S 18-45mm f/4.5-6.3 IS STM Lens",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 582.56,
+    "rating": 4.4,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000007",
+    "title": "Fujifilm X-T10 APS-C Mirrorless Camera Black Compact Retro Design",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 939.42,
+    "rating": 4.4,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000008",
+    "title": "DJI Osmo Pocket 1 3-Axis Gimbal Stabilizer 4K Camera Creator Combo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 319.73,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000009",
+    "title": "GoPro HERO1 Black Action Camera 5.3K Ultra HD Waterproof 27MP Photo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 436.04,
+    "rating": 4.2,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000010",
+    "title": "Apple MacBook Pro 14-inch M3 Pro Chip 18GB RAM 512GB SSD Space Black",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 2182.4,
+    "rating": 4.9,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000011",
+    "title": "Dell XPS 115 Intel Core i7-13700H 1TB SSD 16GB RAM Windows 11",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1427.16,
+    "rating": 4.3,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000012",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 11 Ultra-Thin Business Laptop 14\"",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1511.29,
+    "rating": 4.4,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000013",
+    "title": "ASUS ROG Strix G16 Gaming Laptop RTX 4070 16\" 165Hz QHD Display",
+    "description": "Dominate every session with a high-refresh-rate display, latest-gen GPU, and a cooling system engineered to sustain peak performance during extended gaming marathons.",
+    "price": 1579.2,
+    "rating": 4.1,
+    "category": "Gaming Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000014",
+    "title": "Microsoft Surface Pro 1 13\" Detachable Core i5 8GB 256GB",
+    "description": "Versatile 2-in-1 device that transforms from tablet to laptop with a detachable keyboard cover, offering professional-grade software support and a vivid PixelSense display.",
+    "price": 1103.14,
+    "rating": 4.2,
+    "category": "Tablets",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000015",
+    "title": "Anker PowerCore 10000mAh Portable Charger Slim PD 22.5W Output",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 39.31,
+    "rating": 4.6,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000016",
+    "title": "USB-C to USB-C Cable 1ft 240W Fast Charging Nylon Braided 2-Pack",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 13.13,
+    "rating": 4.5,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000017",
+    "title": "Spigen Tough Armor MagFit iPhone 11 Pro Military-Grade Drop Protection",
+    "description": "Military-grade drop protection for your smartphone with reinforced corners, precise cutouts, and a slim profile that fits standard wireless chargers.",
+    "price": 19.26,
+    "rating": 4.4,
+    "category": "Phone Cases",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000018",
+    "title": "Belkin BoostCharge Pro 11W MagSafe Wireless Charger Stand with PSU",
+    "description": "Intelligent multi-port charger supporting USB-C Power Delivery and MagSafe wireless charging, automatically detecting and delivering optimal wattage to each connected device.",
+    "price": 65.92,
+    "rating": 4.2,
+    "category": "Chargers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000019",
+    "title": "Amazon Echo Dot (5th Gen) Smart Speaker Alexa Voice Control Charcoal",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 55.41,
+    "rating": 4.4,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000020",
+    "title": "Google Nest Mini (2nd Gen) Smart Speaker Google Assistant Chalk",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 31.83,
+    "rating": 4.1,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000021",
+    "title": "Sonos Era 100 Premium Wireless Smart Speaker Hi-Res Spatial Audio",
+    "description": "Room-filling hi-res wireless audio with Trueplay acoustic tuning, seamless multi-room sync, and a minimalist design that complements any décor.",
+    "price": 412.35,
+    "rating": 4.5,
+    "category": "Speakers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000022",
+    "title": "Roku Streaming Stick 1K Portable 4K HDR Device Voice Remote",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 34.95,
+    "rating": 4.2,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000023",
+    "title": "Amazon Fire TV Stick 4K Max Wi-Fi 6E Alexa Voice Remote Pro",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 52.81,
+    "rating": 4.3,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000024",
+    "title": "Razer BlackShark V2 Pro Wireless Gaming Headset 50mm Triforce Titanium",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 187.32,
+    "rating": 4.3,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000025",
+    "title": "Logitech G512 Hero Wireless Gaming Mouse 25600 DPI Ultra-Long Battery",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 134.54,
+    "rating": 4.4,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000026",
+    "title": "SteelSeries Arctis Nova 1 Wireless Gaming Headset Spatial Audio PC PS5",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 139.5,
+    "rating": 4.5,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000027",
+    "title": "ASUS TUF Gaming 17\" Monitor 165Hz IPS 1ms FreeSync Premium HDR",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 292.42,
+    "rating": 4.4,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000028",
+    "title": "Apple Magic Keyboard with Touch ID Wireless Rechargeable for iPhone Mac",
+    "description": "Whisper-quiet scissor-switch keyboard with backlit keys, multi-device Bluetooth pairing, USB-C charging, and a slim aluminium chassis built to last.",
+    "price": 89.23,
+    "rating": 4.6,
+    "category": "Keyboards",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000029",
+    "title": "Logitech MX Master 3S Advanced Wireless Mouse Silent 8K DPI Mac Windows",
+    "description": "Ergonomic wireless mouse with an ultra-precise laser sensor, customisable side buttons, and silent clicks engineered for productivity across multiple devices.",
+    "price": 89.89,
+    "rating": 4.6,
+    "category": "Mice",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000030",
+    "title": "Seagate Portable 1TB External Hard Drive USB 3.0 for PC Mac Slim Black",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 63.07,
+    "rating": 4.4,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000031",
+    "title": "WD 1TB My Passport Portable External Hard Drive USB-C Auto Backup Blue",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 66.1,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000032",
+    "title": "LG UltraWide 34\" 21:9 Curved IPS 100Hz FreeSync 1ms1 HDR10 Monitor",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 385.99,
+    "rating": 4.4,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000033",
+    "title": "Tile Mate (2024) Bluetooth Item Tracker 4-Pack Keys Wallet Luggage",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 32.15,
+    "rating": 4.0,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000034",
+    "title": "Kindle Paperwhite (11th Gen) 6.8\" 300 PPI Waterproof 16GB Ads-Free",
+    "description": "Read in any lighting with a glare-free Paperwhite display, IPX8 waterproofing, adjustable warm light, and weeks of battery life on a single charge.",
+    "price": 132.24,
+    "rating": 4.5,
+    "category": "E-Readers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000035",
+    "title": "iRobot Roomba j1+ Self-Emptying Robot Vacuum Wi-Fi Smart Mapping",
+    "description": "AI-powered smart appliance that maps your home in 3D, avoids obstacles with precision, and empties its own dustbin — controlled entirely via the companion app or voice commands.",
+    "price": 410.07,
+    "rating": 4.6,
+    "category": "Smart Appliances",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000036",
+    "title": "Ring Video Doorbell (2nd Gen) 1080p HD Wi-Fi Night Vision Motion Alert",
+    "description": "Full HD 1080p security camera with colour night vision, two-way audio, customisable motion zones, and optional Ring Protect cloud subscription for 24/7 recording.",
+    "price": 66.76,
+    "rating": 4.1,
+    "category": "Security",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000037",
+    "title": "TP-Link Archer AXE1000 Wi-Fi 6E Router Tri-Band Gigabit MU-MIMO",
+    "description": "Next-generation Wi-Fi 6E tri-band router with 160 MHz channels, 8-stream MU-MIMO, WPA3 encryption, and easy setup through the companion app.",
+    "price": 209.32,
+    "rating": 4.4,
+    "category": "Networking",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000038",
+    "title": "Samsung 870 EVO 1TB 2.5\" SATA III Internal SSD 560MB/s Read MZ-77E",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 95.56,
+    "rating": 4.6,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000039",
+    "title": "WD Blue SN180 500GB M.2 NVMe Internal SSD up to 3500 MB/s",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 46.46,
+    "rating": 4.4,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000040",
+    "title": "Sony WH-1000XM2 Wireless Noise Cancelling Over-Ear Headphones Bluetooth 5.1",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 285.14,
+    "rating": 4.5,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000041",
+    "title": "Bose QuietComfort 25 Wireless Bluetooth Headphones Active Noise Cancelling",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 337.35,
+    "rating": 4.7,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000042",
+    "title": "Apple AirPods Pro (2nd Gen) with MagSafe USB-C Charging Case",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 241.49,
+    "rating": 4.6,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000043",
+    "title": "Sennheiser HD 250BT Wireless Headphones aptX Adaptive 30-Hour Battery",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 172.33,
+    "rating": 4.4,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000044",
+    "title": "JBL Tune 230TWS True Wireless Earbuds Hands-free Call 40H Battery",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 43.82,
+    "rating": 4.0,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000045",
+    "title": "Sony Alpha a2100 Full-Frame Mirrorless Camera Body E-Mount",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 970.3,
+    "rating": 4.7,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000046",
+    "title": "Canon EOS R250 Mirrorless Camera with RF-S 18-45mm f/4.5-6.3 IS STM Lens",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 738.5,
+    "rating": 4.5,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000047",
+    "title": "Fujifilm X-T20 APS-C Mirrorless Camera Black Compact Retro Design",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 781.28,
+    "rating": 4.4,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000048",
+    "title": "DJI Osmo Pocket 2 3-Axis Gimbal Stabilizer 4K Camera Creator Combo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 400.94,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000049",
+    "title": "GoPro HERO2 Black Action Camera 5.3K Ultra HD Waterproof 27MP Photo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 455.39,
+    "rating": 4.5,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000050",
+    "title": "Apple MacBook Pro 14-inch M3 Pro Chip 18GB RAM 512GB SSD Space Black",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1706.04,
+    "rating": 4.9,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000051",
+    "title": "Dell XPS 125 Intel Core i7-13700H 1TB SSD 16GB RAM Windows 11",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1580.72,
+    "rating": 4.4,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000052",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 21 Ultra-Thin Business Laptop 14\"",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1236.03,
+    "rating": 4.6,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000053",
+    "title": "ASUS ROG Strix G26 Gaming Laptop RTX 4070 16\" 165Hz QHD Display",
+    "description": "Dominate every session with a high-refresh-rate display, latest-gen GPU, and a cooling system engineered to sustain peak performance during extended gaming marathons.",
+    "price": 1589.35,
+    "rating": 4.3,
+    "category": "Gaming Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000054",
+    "title": "Microsoft Surface Pro 2 13\" Detachable Core i5 8GB 256GB",
+    "description": "Versatile 2-in-1 device that transforms from tablet to laptop with a detachable keyboard cover, offering professional-grade software support and a vivid PixelSense display.",
+    "price": 985.13,
+    "rating": 4.4,
+    "category": "Tablets",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000055",
+    "title": "Anker PowerCore 20000mAh Portable Charger Slim PD 22.5W Output",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 40.05,
+    "rating": 4.4,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000056",
+    "title": "USB-C to USB-C Cable 2ft 240W Fast Charging Nylon Braided 2-Pack",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 12.99,
+    "rating": 4.2,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000057",
+    "title": "Spigen Tough Armor MagFit iPhone 12 Pro Military-Grade Drop Protection",
+    "description": "Military-grade drop protection for your smartphone with reinforced corners, precise cutouts, and a slim profile that fits standard wireless chargers.",
+    "price": 22.46,
+    "rating": 4.5,
+    "category": "Phone Cases",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000058",
+    "title": "Belkin BoostCharge Pro 12W MagSafe Wireless Charger Stand with PSU",
+    "description": "Intelligent multi-port charger supporting USB-C Power Delivery and MagSafe wireless charging, automatically detecting and delivering optimal wattage to each connected device.",
+    "price": 56.36,
+    "rating": 4.3,
+    "category": "Chargers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000059",
+    "title": "Amazon Echo Dot (5th Gen) Smart Speaker Alexa Voice Control Charcoal",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 51.62,
+    "rating": 4.3,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000060",
+    "title": "Google Nest Mini (2nd Gen) Smart Speaker Google Assistant Chalk",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 32.35,
+    "rating": 4.3,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000061",
+    "title": "Sonos Era 200 Premium Wireless Smart Speaker Hi-Res Spatial Audio",
+    "description": "Room-filling hi-res wireless audio with Trueplay acoustic tuning, seamless multi-room sync, and a minimalist design that complements any décor.",
+    "price": 486.53,
+    "rating": 4.6,
+    "category": "Speakers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000062",
+    "title": "Roku Streaming Stick 2K Portable 4K HDR Device Voice Remote",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 34.0,
+    "rating": 4.2,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000063",
+    "title": "Amazon Fire TV Stick 4K Max Wi-Fi 6E Alexa Voice Remote Pro",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 51.34,
+    "rating": 4.6,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000064",
+    "title": "Razer BlackShark V2 Pro Wireless Gaming Headset 50mm Triforce Titanium",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 200.44,
+    "rating": 4.5,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000065",
+    "title": "Logitech G522 Hero Wireless Gaming Mouse 25600 DPI Ultra-Long Battery",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 131.91,
+    "rating": 4.3,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000066",
+    "title": "SteelSeries Arctis Nova 2 Wireless Gaming Headset Spatial Audio PC PS5",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 167.0,
+    "rating": 4.5,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000067",
+    "title": "ASUS TUF Gaming 27\" Monitor 165Hz IPS 1ms FreeSync Premium HDR",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 245.19,
+    "rating": 4.4,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000068",
+    "title": "Apple Magic Keyboard with Touch ID Wireless Rechargeable for iPhone Mac",
+    "description": "Whisper-quiet scissor-switch keyboard with backlit keys, multi-device Bluetooth pairing, USB-C charging, and a slim aluminium chassis built to last.",
+    "price": 86.21,
+    "rating": 4.6,
+    "category": "Keyboards",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000069",
+    "title": "Logitech MX Master 3S Advanced Wireless Mouse Silent 8K DPI Mac Windows",
+    "description": "Ergonomic wireless mouse with an ultra-precise laser sensor, customisable side buttons, and silent clicks engineered for productivity across multiple devices.",
+    "price": 107.96,
+    "rating": 4.5,
+    "category": "Mice",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000070",
+    "title": "Seagate Portable 2TB External Hard Drive USB 3.0 for PC Mac Slim Black",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 54.58,
+    "rating": 4.3,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000071",
+    "title": "WD 2TB My Passport Portable External Hard Drive USB-C Auto Backup Blue",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 60.41,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000072",
+    "title": "LG UltraWide 34\" 21:9 Curved IPS 100Hz FreeSync 1ms2 HDR10 Monitor",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 341.92,
+    "rating": 4.2,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000073",
+    "title": "Tile Mate (2024) Bluetooth Item Tracker 4-Pack Keys Wallet Luggage",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 35.4,
+    "rating": 4.3,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000074",
+    "title": "Kindle Paperwhite (11th Gen) 6.8\" 300 PPI Waterproof 16GB Ads-Free",
+    "description": "Read in any lighting with a glare-free Paperwhite display, IPX8 waterproofing, adjustable warm light, and weeks of battery life on a single charge.",
+    "price": 127.44,
+    "rating": 4.5,
+    "category": "E-Readers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000075",
+    "title": "iRobot Roomba j2+ Self-Emptying Robot Vacuum Wi-Fi Smart Mapping",
+    "description": "AI-powered smart appliance that maps your home in 3D, avoids obstacles with precision, and empties its own dustbin — controlled entirely via the companion app or voice commands.",
+    "price": 515.7,
+    "rating": 4.5,
+    "category": "Smart Appliances",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000076",
+    "title": "Ring Video Doorbell (2nd Gen) 1080p HD Wi-Fi Night Vision Motion Alert",
+    "description": "Full HD 1080p security camera with colour night vision, two-way audio, customisable motion zones, and optional Ring Protect cloud subscription for 24/7 recording.",
+    "price": 58.88,
+    "rating": 4.2,
+    "category": "Security",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000077",
+    "title": "TP-Link Archer AXE2000 Wi-Fi 6E Router Tri-Band Gigabit MU-MIMO",
+    "description": "Next-generation Wi-Fi 6E tri-band router with 160 MHz channels, 8-stream MU-MIMO, WPA3 encryption, and easy setup through the companion app.",
+    "price": 177.25,
+    "rating": 4.3,
+    "category": "Networking",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000078",
+    "title": "Samsung 870 EVO 2TB 2.5\" SATA III Internal SSD 560MB/s Read MZ-77E",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 80.86,
+    "rating": 4.6,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000079",
+    "title": "WD Blue SN280 500GB M.2 NVMe Internal SSD up to 3500 MB/s",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 45.94,
+    "rating": 4.4,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000080",
+    "title": "Sony WH-1000XM3 Wireless Noise Cancelling Over-Ear Headphones Bluetooth 5.1",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 243.95,
+    "rating": 4.7,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000081",
+    "title": "Bose QuietComfort 35 Wireless Bluetooth Headphones Active Noise Cancelling",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 302.25,
+    "rating": 4.7,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000082",
+    "title": "Apple AirPods Pro (2nd Gen) with MagSafe USB-C Charging Case",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 275.86,
+    "rating": 4.5,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000083",
+    "title": "Sennheiser HD 350BT Wireless Headphones aptX Adaptive 30-Hour Battery",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 138.16,
+    "rating": 4.5,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000084",
+    "title": "JBL Tune 330TWS True Wireless Earbuds Hands-free Call 40H Battery",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 45.67,
+    "rating": 4.1,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000085",
+    "title": "Sony Alpha a3100 Full-Frame Mirrorless Camera Body E-Mount",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 1242.59,
+    "rating": 4.6,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000086",
+    "title": "Canon EOS R350 Mirrorless Camera with RF-S 18-45mm f/4.5-6.3 IS STM Lens",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 673.43,
+    "rating": 4.6,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000087",
+    "title": "Fujifilm X-T30 APS-C Mirrorless Camera Black Compact Retro Design",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 981.93,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000088",
+    "title": "DJI Osmo Pocket 3 3-Axis Gimbal Stabilizer 4K Camera Creator Combo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 306.8,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000089",
+    "title": "GoPro HERO3 Black Action Camera 5.3K Ultra HD Waterproof 27MP Photo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 389.85,
+    "rating": 4.4,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000090",
+    "title": "Apple MacBook Pro 14-inch M3 Pro Chip 18GB RAM 512GB SSD Space Black",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 2136.38,
+    "rating": 4.9,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000091",
+    "title": "Dell XPS 135 Intel Core i7-13700H 1TB SSD 16GB RAM Windows 11",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1716.73,
+    "rating": 4.2,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000092",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 31 Ultra-Thin Business Laptop 14\"",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1290.18,
+    "rating": 4.4,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000093",
+    "title": "ASUS ROG Strix G36 Gaming Laptop RTX 4070 16\" 165Hz QHD Display",
+    "description": "Dominate every session with a high-refresh-rate display, latest-gen GPU, and a cooling system engineered to sustain peak performance during extended gaming marathons.",
+    "price": 1994.19,
+    "rating": 4.2,
+    "category": "Gaming Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000094",
+    "title": "Microsoft Surface Pro 3 13\" Detachable Core i5 8GB 256GB",
+    "description": "Versatile 2-in-1 device that transforms from tablet to laptop with a detachable keyboard cover, offering professional-grade software support and a vivid PixelSense display.",
+    "price": 906.16,
+    "rating": 4.2,
+    "category": "Tablets",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000095",
+    "title": "Anker PowerCore 30000mAh Portable Charger Slim PD 22.5W Output",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 35.15,
+    "rating": 4.4,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000096",
+    "title": "USB-C to USB-C Cable 3ft 240W Fast Charging Nylon Braided 2-Pack",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 12.01,
+    "rating": 4.5,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000097",
+    "title": "Spigen Tough Armor MagFit iPhone 13 Pro Military-Grade Drop Protection",
+    "description": "Military-grade drop protection for your smartphone with reinforced corners, precise cutouts, and a slim profile that fits standard wireless chargers.",
+    "price": 19.65,
+    "rating": 4.5,
+    "category": "Phone Cases",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000098",
+    "title": "Belkin BoostCharge Pro 13W MagSafe Wireless Charger Stand with PSU",
+    "description": "Intelligent multi-port charger supporting USB-C Power Delivery and MagSafe wireless charging, automatically detecting and delivering optimal wattage to each connected device.",
+    "price": 60.9,
+    "rating": 4.0,
+    "category": "Chargers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000099",
+    "title": "Amazon Echo Dot (5th Gen) Smart Speaker Alexa Voice Control Charcoal",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 57.48,
+    "rating": 4.5,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000100",
+    "title": "Google Nest Mini (2nd Gen) Smart Speaker Google Assistant Chalk",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 34.21,
+    "rating": 4.5,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000101",
+    "title": "Sonos Era 300 Premium Wireless Smart Speaker Hi-Res Spatial Audio",
+    "description": "Room-filling hi-res wireless audio with Trueplay acoustic tuning, seamless multi-room sync, and a minimalist design that complements any décor.",
+    "price": 495.97,
+    "rating": 4.5,
+    "category": "Speakers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000102",
+    "title": "Roku Streaming Stick 3K Portable 4K HDR Device Voice Remote",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 39.82,
+    "rating": 4.2,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000103",
+    "title": "Amazon Fire TV Stick 4K Max Wi-Fi 6E Alexa Voice Remote Pro",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 58.21,
+    "rating": 4.2,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000104",
+    "title": "Razer BlackShark V2 Pro Wireless Gaming Headset 50mm Triforce Titanium",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 173.45,
+    "rating": 4.6,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000105",
+    "title": "Logitech G532 Hero Wireless Gaming Mouse 25600 DPI Ultra-Long Battery",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 130.13,
+    "rating": 4.6,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000106",
+    "title": "SteelSeries Arctis Nova 3 Wireless Gaming Headset Spatial Audio PC PS5",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 147.97,
+    "rating": 4.3,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000107",
+    "title": "ASUS TUF Gaming 37\" Monitor 165Hz IPS 1ms FreeSync Premium HDR",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 318.4,
+    "rating": 4.6,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000108",
+    "title": "Apple Magic Keyboard with Touch ID Wireless Rechargeable for iPhone Mac",
+    "description": "Whisper-quiet scissor-switch keyboard with backlit keys, multi-device Bluetooth pairing, USB-C charging, and a slim aluminium chassis built to last.",
+    "price": 100.66,
+    "rating": 4.6,
+    "category": "Keyboards",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000109",
+    "title": "Logitech MX Master 3S Advanced Wireless Mouse Silent 8K DPI Mac Windows",
+    "description": "Ergonomic wireless mouse with an ultra-precise laser sensor, customisable side buttons, and silent clicks engineered for productivity across multiple devices.",
+    "price": 89.63,
+    "rating": 4.5,
+    "category": "Mice",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000110",
+    "title": "Seagate Portable 3TB External Hard Drive USB 3.0 for PC Mac Slim Black",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 62.72,
+    "rating": 4.3,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000111",
+    "title": "WD 3TB My Passport Portable External Hard Drive USB-C Auto Backup Blue",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 65.81,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000112",
+    "title": "LG UltraWide 34\" 21:9 Curved IPS 100Hz FreeSync 1ms3 HDR10 Monitor",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 303.49,
+    "rating": 4.3,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000113",
+    "title": "Tile Mate (2024) Bluetooth Item Tracker 4-Pack Keys Wallet Luggage",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 35.02,
+    "rating": 4.3,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000114",
+    "title": "Kindle Paperwhite (11th Gen) 6.8\" 300 PPI Waterproof 16GB Ads-Free",
+    "description": "Read in any lighting with a glare-free Paperwhite display, IPX8 waterproofing, adjustable warm light, and weeks of battery life on a single charge.",
+    "price": 125.6,
+    "rating": 4.8,
+    "category": "E-Readers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000115",
+    "title": "iRobot Roomba j3+ Self-Emptying Robot Vacuum Wi-Fi Smart Mapping",
+    "description": "AI-powered smart appliance that maps your home in 3D, avoids obstacles with precision, and empties its own dustbin — controlled entirely via the companion app or voice commands.",
+    "price": 392.44,
+    "rating": 4.3,
+    "category": "Smart Appliances",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000116",
+    "title": "Ring Video Doorbell (2nd Gen) 1080p HD Wi-Fi Night Vision Motion Alert",
+    "description": "Full HD 1080p security camera with colour night vision, two-way audio, customisable motion zones, and optional Ring Protect cloud subscription for 24/7 recording.",
+    "price": 61.7,
+    "rating": 4.3,
+    "category": "Security",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000117",
+    "title": "TP-Link Archer AXE3000 Wi-Fi 6E Router Tri-Band Gigabit MU-MIMO",
+    "description": "Next-generation Wi-Fi 6E tri-band router with 160 MHz channels, 8-stream MU-MIMO, WPA3 encryption, and easy setup through the companion app.",
+    "price": 184.1,
+    "rating": 4.2,
+    "category": "Networking",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000118",
+    "title": "Samsung 870 EVO 3TB 2.5\" SATA III Internal SSD 560MB/s Read MZ-77E",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 94.94,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000119",
+    "title": "WD Blue SN380 500GB M.2 NVMe Internal SSD up to 3500 MB/s",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 51.41,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000120",
+    "title": "Sony WH-1000XM4 Wireless Noise Cancelling Over-Ear Headphones Bluetooth 5.1",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 273.21,
+    "rating": 4.6,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000121",
+    "title": "Bose QuietComfort 45 Wireless Bluetooth Headphones Active Noise Cancelling",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 331.25,
+    "rating": 4.7,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000122",
+    "title": "Apple AirPods Pro (2nd Gen) with MagSafe USB-C Charging Case",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 226.91,
+    "rating": 4.8,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000123",
+    "title": "Sennheiser HD 450BT Wireless Headphones aptX Adaptive 30-Hour Battery",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 138.19,
+    "rating": 4.4,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000124",
+    "title": "JBL Tune 430TWS True Wireless Earbuds Hands-free Call 40H Battery",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 52.52,
+    "rating": 4.1,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000125",
+    "title": "Sony Alpha a4100 Full-Frame Mirrorless Camera Body E-Mount",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 1038.39,
+    "rating": 4.7,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000126",
+    "title": "Canon EOS R450 Mirrorless Camera with RF-S 18-45mm f/4.5-6.3 IS STM Lens",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 591.93,
+    "rating": 4.5,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000127",
+    "title": "Fujifilm X-T40 APS-C Mirrorless Camera Black Compact Retro Design",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 1033.43,
+    "rating": 4.6,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000128",
+    "title": "DJI Osmo Pocket 4 3-Axis Gimbal Stabilizer 4K Camera Creator Combo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 304.32,
+    "rating": 4.2,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000129",
+    "title": "GoPro HERO4 Black Action Camera 5.3K Ultra HD Waterproof 27MP Photo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 370.89,
+    "rating": 4.6,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000130",
+    "title": "Apple MacBook Pro 14-inch M3 Pro Chip 18GB RAM 512GB SSD Space Black",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 2227.4,
+    "rating": 5.0,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000131",
+    "title": "Dell XPS 145 Intel Core i7-13700H 1TB SSD 16GB RAM Windows 11",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1440.33,
+    "rating": 4.3,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000132",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 41 Ultra-Thin Business Laptop 14\"",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1462.06,
+    "rating": 4.6,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000133",
+    "title": "ASUS ROG Strix G46 Gaming Laptop RTX 4070 16\" 165Hz QHD Display",
+    "description": "Dominate every session with a high-refresh-rate display, latest-gen GPU, and a cooling system engineered to sustain peak performance during extended gaming marathons.",
+    "price": 1859.27,
+    "rating": 4.5,
+    "category": "Gaming Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000134",
+    "title": "Microsoft Surface Pro 4 13\" Detachable Core i5 8GB 256GB",
+    "description": "Versatile 2-in-1 device that transforms from tablet to laptop with a detachable keyboard cover, offering professional-grade software support and a vivid PixelSense display.",
+    "price": 1045.15,
+    "rating": 4.0,
+    "category": "Tablets",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000135",
+    "title": "Anker PowerCore 40000mAh Portable Charger Slim PD 22.5W Output",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 39.41,
+    "rating": 4.4,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000136",
+    "title": "USB-C to USB-C Cable 4ft 240W Fast Charging Nylon Braided 2-Pack",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 13.63,
+    "rating": 4.5,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000137",
+    "title": "Spigen Tough Armor MagFit iPhone 14 Pro Military-Grade Drop Protection",
+    "description": "Military-grade drop protection for your smartphone with reinforced corners, precise cutouts, and a slim profile that fits standard wireless chargers.",
+    "price": 17.8,
+    "rating": 4.2,
+    "category": "Phone Cases",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000138",
+    "title": "Belkin BoostCharge Pro 14W MagSafe Wireless Charger Stand with PSU",
+    "description": "Intelligent multi-port charger supporting USB-C Power Delivery and MagSafe wireless charging, automatically detecting and delivering optimal wattage to each connected device.",
+    "price": 52.92,
+    "rating": 4.2,
+    "category": "Chargers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000139",
+    "title": "Amazon Echo Dot (5th Gen) Smart Speaker Alexa Voice Control Charcoal",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 46.58,
+    "rating": 4.4,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000140",
+    "title": "Google Nest Mini (2nd Gen) Smart Speaker Google Assistant Chalk",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 31.95,
+    "rating": 4.2,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000141",
+    "title": "Sonos Era 400 Premium Wireless Smart Speaker Hi-Res Spatial Audio",
+    "description": "Room-filling hi-res wireless audio with Trueplay acoustic tuning, seamless multi-room sync, and a minimalist design that complements any décor.",
+    "price": 467.08,
+    "rating": 4.5,
+    "category": "Speakers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000142",
+    "title": "Roku Streaming Stick 4K Portable 4K HDR Device Voice Remote",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 39.85,
+    "rating": 4.5,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000143",
+    "title": "Amazon Fire TV Stick 4K Max Wi-Fi 6E Alexa Voice Remote Pro",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 66.22,
+    "rating": 4.2,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000144",
+    "title": "Razer BlackShark V2 Pro Wireless Gaming Headset 50mm Triforce Titanium",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 175.86,
+    "rating": 4.3,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000145",
+    "title": "Logitech G542 Hero Wireless Gaming Mouse 25600 DPI Ultra-Long Battery",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 119.14,
+    "rating": 4.6,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000146",
+    "title": "SteelSeries Arctis Nova 4 Wireless Gaming Headset Spatial Audio PC PS5",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 156.16,
+    "rating": 4.2,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000147",
+    "title": "ASUS TUF Gaming 47\" Monitor 165Hz IPS 1ms FreeSync Premium HDR",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 300.25,
+    "rating": 4.4,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000148",
+    "title": "Apple Magic Keyboard with Touch ID Wireless Rechargeable for iPhone Mac",
+    "description": "Whisper-quiet scissor-switch keyboard with backlit keys, multi-device Bluetooth pairing, USB-C charging, and a slim aluminium chassis built to last.",
+    "price": 96.85,
+    "rating": 4.3,
+    "category": "Keyboards",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000149",
+    "title": "Logitech MX Master 3S Advanced Wireless Mouse Silent 8K DPI Mac Windows",
+    "description": "Ergonomic wireless mouse with an ultra-precise laser sensor, customisable side buttons, and silent clicks engineered for productivity across multiple devices.",
+    "price": 87.25,
+    "rating": 4.8,
+    "category": "Mice",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000150",
+    "title": "Seagate Portable 4TB External Hard Drive USB 3.0 for PC Mac Slim Black",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 61.65,
+    "rating": 4.3,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000151",
+    "title": "WD 4TB My Passport Portable External Hard Drive USB-C Auto Backup Blue",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 71.51,
+    "rating": 4.4,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000152",
+    "title": "LG UltraWide 34\" 21:9 Curved IPS 100Hz FreeSync 1ms4 HDR10 Monitor",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 313.04,
+    "rating": 4.2,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000153",
+    "title": "Tile Mate (2024) Bluetooth Item Tracker 4-Pack Keys Wallet Luggage",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 32.98,
+    "rating": 4.4,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000154",
+    "title": "Kindle Paperwhite (11th Gen) 6.8\" 300 PPI Waterproof 16GB Ads-Free",
+    "description": "Read in any lighting with a glare-free Paperwhite display, IPX8 waterproofing, adjustable warm light, and weeks of battery life on a single charge.",
+    "price": 152.43,
+    "rating": 4.7,
+    "category": "E-Readers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000155",
+    "title": "iRobot Roomba j4+ Self-Emptying Robot Vacuum Wi-Fi Smart Mapping",
+    "description": "AI-powered smart appliance that maps your home in 3D, avoids obstacles with precision, and empties its own dustbin — controlled entirely via the companion app or voice commands.",
+    "price": 502.74,
+    "rating": 4.3,
+    "category": "Smart Appliances",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000156",
+    "title": "Ring Video Doorbell (2nd Gen) 1080p HD Wi-Fi Night Vision Motion Alert",
+    "description": "Full HD 1080p security camera with colour night vision, two-way audio, customisable motion zones, and optional Ring Protect cloud subscription for 24/7 recording.",
+    "price": 55.48,
+    "rating": 4.0,
+    "category": "Security",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000157",
+    "title": "TP-Link Archer AXE4000 Wi-Fi 6E Router Tri-Band Gigabit MU-MIMO",
+    "description": "Next-generation Wi-Fi 6E tri-band router with 160 MHz channels, 8-stream MU-MIMO, WPA3 encryption, and easy setup through the companion app.",
+    "price": 216.8,
+    "rating": 4.6,
+    "category": "Networking",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000158",
+    "title": "Samsung 870 EVO 4TB 2.5\" SATA III Internal SSD 560MB/s Read MZ-77E",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 82.6,
+    "rating": 4.6,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000159",
+    "title": "WD Blue SN480 500GB M.2 NVMe Internal SSD up to 3500 MB/s",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 44.81,
+    "rating": 4.7,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000160",
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Over-Ear Headphones Bluetooth 5.1",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 310.62,
+    "rating": 4.8,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000161",
+    "title": "Bose QuietComfort 55 Wireless Bluetooth Headphones Active Noise Cancelling",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 359.67,
+    "rating": 4.7,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000162",
+    "title": "Apple AirPods Pro (2nd Gen) with MagSafe USB-C Charging Case",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 213.5,
+    "rating": 4.8,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000163",
+    "title": "Sennheiser HD 550BT Wireless Headphones aptX Adaptive 30-Hour Battery",
+    "description": "Experience superior audio immersion with advanced active noise cancellation technology, premium 40mm drivers delivering deep bass and crisp highs, and a comfortable over-ear design with memory foam cushions rated for 30+ hours of wireless playback.",
+    "price": 142.4,
+    "rating": 4.6,
+    "category": "Headphones",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000164",
+    "title": "JBL Tune 530TWS True Wireless Earbuds Hands-free Call 40H Battery",
+    "description": "True wireless earbuds with 6mm dynamic drivers, customizable EQ via app, IPX4 sweat and water resistance, and a total playtime of 36 hours with the compact charging case.",
+    "price": 54.48,
+    "rating": 4.3,
+    "category": "Earbuds",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000165",
+    "title": "Sony Alpha a5100 Full-Frame Mirrorless Camera Body E-Mount",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 1201.45,
+    "rating": 4.5,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000166",
+    "title": "Canon EOS R550 Mirrorless Camera with RF-S 18-45mm f/4.5-6.3 IS STM Lens",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 737.54,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000167",
+    "title": "Fujifilm X-T50 APS-C Mirrorless Camera Black Compact Retro Design",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 999.37,
+    "rating": 4.5,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000168",
+    "title": "DJI Osmo Pocket 5 3-Axis Gimbal Stabilizer 4K Camera Creator Combo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 319.94,
+    "rating": 4.4,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000169",
+    "title": "GoPro HERO5 Black Action Camera 5.3K Ultra HD Waterproof 27MP Photo",
+    "description": "Capture stunning images and 4K video with fast phase-detect autofocus, in-body image stabilisation, and a weather-sealed body designed for everyday shooting adventures.",
+    "price": 394.25,
+    "rating": 4.3,
+    "category": "Cameras",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000170",
+    "title": "Apple MacBook Pro 14-inch M3 Pro Chip 18GB RAM 512GB SSD Space Black",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 2176.12,
+    "rating": 4.7,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000171",
+    "title": "Dell XPS 155 Intel Core i7-13700H 1TB SSD 16GB RAM Windows 11",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1284.79,
+    "rating": 4.3,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000172",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 51 Ultra-Thin Business Laptop 14\"",
+    "description": "Ultra-portable powerhouse with all-day battery life, a vibrant high-resolution display, and fast NVMe SSD storage for seamless multitasking whether in the office or on the go.",
+    "price": 1260.53,
+    "rating": 4.6,
+    "category": "Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000173",
+    "title": "ASUS ROG Strix G56 Gaming Laptop RTX 4070 16\" 165Hz QHD Display",
+    "description": "Dominate every session with a high-refresh-rate display, latest-gen GPU, and a cooling system engineered to sustain peak performance during extended gaming marathons.",
+    "price": 2050.98,
+    "rating": 4.2,
+    "category": "Gaming Laptops",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000174",
+    "title": "Microsoft Surface Pro 5 13\" Detachable Core i5 8GB 256GB",
+    "description": "Versatile 2-in-1 device that transforms from tablet to laptop with a detachable keyboard cover, offering professional-grade software support and a vivid PixelSense display.",
+    "price": 1041.4,
+    "rating": 4.2,
+    "category": "Tablets",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000175",
+    "title": "Anker PowerCore 50000mAh Portable Charger Slim PD 22.5W Output",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 41.18,
+    "rating": 4.5,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000176",
+    "title": "USB-C to USB-C Cable 5ft 240W Fast Charging Nylon Braided 2-Pack",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 14.7,
+    "rating": 4.1,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000177",
+    "title": "Spigen Tough Armor MagFit iPhone 15 Pro Military-Grade Drop Protection",
+    "description": "Military-grade drop protection for your smartphone with reinforced corners, precise cutouts, and a slim profile that fits standard wireless chargers.",
+    "price": 22.81,
+    "rating": 4.3,
+    "category": "Phone Cases",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000178",
+    "title": "Belkin BoostCharge Pro 15W MagSafe Wireless Charger Stand with PSU",
+    "description": "Intelligent multi-port charger supporting USB-C Power Delivery and MagSafe wireless charging, automatically detecting and delivering optimal wattage to each connected device.",
+    "price": 68.31,
+    "rating": 4.1,
+    "category": "Chargers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000179",
+    "title": "Amazon Echo Dot (5th Gen) Smart Speaker Alexa Voice Control Charcoal",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 44.12,
+    "rating": 4.4,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000180",
+    "title": "Google Nest Mini (2nd Gen) Smart Speaker Google Assistant Chalk",
+    "description": "Smart voice-controlled hub compatible with Alexa, Google Assistant, and HomeKit, enabling hands-free control of connected lights, locks, thermostats, and entertainment systems.",
+    "price": 32.05,
+    "rating": 4.2,
+    "category": "Smart Home",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000181",
+    "title": "Sonos Era 500 Premium Wireless Smart Speaker Hi-Res Spatial Audio",
+    "description": "Room-filling hi-res wireless audio with Trueplay acoustic tuning, seamless multi-room sync, and a minimalist design that complements any décor.",
+    "price": 463.31,
+    "rating": 4.6,
+    "category": "Speakers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000182",
+    "title": "Roku Streaming Stick 5K Portable 4K HDR Device Voice Remote",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 38.61,
+    "rating": 4.3,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000183",
+    "title": "Amazon Fire TV Stick 4K Max Wi-Fi 6E Alexa Voice Remote Pro",
+    "description": "Stream thousands of channels, apps, and Alexa skills in brilliant 4K HDR and Dolby Atmos sound, all delivered through a fast, responsive interface.",
+    "price": 55.58,
+    "rating": 4.5,
+    "category": "Streaming",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000184",
+    "title": "Razer BlackShark V2 Pro Wireless Gaming Headset 50mm Triforce Titanium",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 153.08,
+    "rating": 4.6,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000185",
+    "title": "Logitech G552 Hero Wireless Gaming Mouse 25600 DPI Ultra-Long Battery",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 141.6,
+    "rating": 4.6,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000186",
+    "title": "SteelSeries Arctis Nova 5 Wireless Gaming Headset Spatial Audio PC PS5",
+    "description": "Professional gaming peripheral featuring ultra-low-latency wireless, a high-precision sensor, and full-spectrum RGB lighting with per-key customisation via companion software.",
+    "price": 160.88,
+    "rating": 4.4,
+    "category": "Gaming Peripherals",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000187",
+    "title": "ASUS TUF Gaming 57\" Monitor 165Hz IPS 1ms FreeSync Premium HDR",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 268.59,
+    "rating": 4.2,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000188",
+    "title": "Apple Magic Keyboard with Touch ID Wireless Rechargeable for iPhone Mac",
+    "description": "Whisper-quiet scissor-switch keyboard with backlit keys, multi-device Bluetooth pairing, USB-C charging, and a slim aluminium chassis built to last.",
+    "price": 103.88,
+    "rating": 4.4,
+    "category": "Keyboards",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000189",
+    "title": "Logitech MX Master 3S Advanced Wireless Mouse Silent 8K DPI Mac Windows",
+    "description": "Ergonomic wireless mouse with an ultra-precise laser sensor, customisable side buttons, and silent clicks engineered for productivity across multiple devices.",
+    "price": 94.41,
+    "rating": 4.7,
+    "category": "Mice",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000190",
+    "title": "Seagate Portable 5TB External Hard Drive USB 3.0 for PC Mac Slim Black",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 58.62,
+    "rating": 4.2,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000191",
+    "title": "WD 5TB My Passport Portable External Hard Drive USB-C Auto Backup Blue",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 61.27,
+    "rating": 4.4,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000192",
+    "title": "LG UltraWide 34\" 21:9 Curved IPS 100Hz FreeSync 1ms5 HDR10 Monitor",
+    "description": "High-fidelity monitor with wide colour gamut, HDR support, ergonomic height and tilt adjustment, and a rapid 1ms response time ideal for both creative workflows and competitive gaming.",
+    "price": 339.74,
+    "rating": 4.2,
+    "category": "Monitors",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000193",
+    "title": "Tile Mate (2024) Bluetooth Item Tracker 4-Pack Keys Wallet Luggage",
+    "description": "Premium accessory crafted from durable materials to protect and enhance your devices with a perfect fit, reliable performance, and stylish finish.",
+    "price": 31.08,
+    "rating": 4.2,
+    "category": "Accessories",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000194",
+    "title": "Kindle Paperwhite (11th Gen) 6.8\" 300 PPI Waterproof 16GB Ads-Free",
+    "description": "Read in any lighting with a glare-free Paperwhite display, IPX8 waterproofing, adjustable warm light, and weeks of battery life on a single charge.",
+    "price": 158.48,
+    "rating": 4.7,
+    "category": "E-Readers",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000195",
+    "title": "iRobot Roomba j5+ Self-Emptying Robot Vacuum Wi-Fi Smart Mapping",
+    "description": "AI-powered smart appliance that maps your home in 3D, avoids obstacles with precision, and empties its own dustbin — controlled entirely via the companion app or voice commands.",
+    "price": 503.26,
+    "rating": 4.4,
+    "category": "Smart Appliances",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000196",
+    "title": "Ring Video Doorbell (2nd Gen) 1080p HD Wi-Fi Night Vision Motion Alert",
+    "description": "Full HD 1080p security camera with colour night vision, two-way audio, customisable motion zones, and optional Ring Protect cloud subscription for 24/7 recording.",
+    "price": 56.41,
+    "rating": 4.2,
+    "category": "Security",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000197",
+    "title": "TP-Link Archer AXE5000 Wi-Fi 6E Router Tri-Band Gigabit MU-MIMO",
+    "description": "Next-generation Wi-Fi 6E tri-band router with 160 MHz channels, 8-stream MU-MIMO, WPA3 encryption, and easy setup through the companion app.",
+    "price": 170.02,
+    "rating": 4.3,
+    "category": "Networking",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000198",
+    "title": "Samsung 870 EVO 5TB 2.5\" SATA III Internal SSD 560MB/s Read MZ-77E",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 83.2,
+    "rating": 4.6,
+    "category": "Storage",
+    "imageUrl": ""
+  },
+  {
+    "id": "B000000199",
+    "title": "WD Blue SN580 500GB M.2 NVMe Internal SSD up to 3500 MB/s",
+    "description": "High-speed portable storage with USB 3.0 Gen 2 interface, automatic cloud backup integration, 256-bit hardware encryption, and a shock-resistant aluminium housing.",
+    "price": 52.31,
+    "rating": 4.5,
+    "category": "Storage",
+    "imageUrl": ""
+  }
+]

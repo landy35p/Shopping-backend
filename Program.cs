@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Shopping.Api.Data;
 using Shopping.Api.Repositories;
+using Shopping.Api.Scripts;
 using Shopping.Api.Services.Abstractions;
 using Shopping.Api.Services.Implementations;
 using Shopping.Api.Settings;
@@ -68,6 +69,20 @@ app.UseSwagger();
 app.UseSwaggerUI();
 app.UseCors("FrontendPolicy");
 app.MapControllers();
+
+// ── CLI Commands ──────────────────────────────────────────────────────
+// Usage: dotnet run -- seed | embed
+if (args.Contains("seed"))
+{
+    await SeedData.RunAsync(app.Services);
+    return;
+}
+
+if (args.Contains("embed"))
+{
+    await GenerateEmbeddings.RunAsync(app.Services);
+    return;
+}
 
 app.Run();
 
