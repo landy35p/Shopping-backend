@@ -60,4 +60,34 @@ public class RecommendationService(
 
         yield return ("done", new { });
     }
+
+    public async IAsyncEnumerable<(string EventType, object Data)> StreamByPromptAsync(
+        string prompt,
+        [System.Runtime.CompilerServices.EnumeratorCancellation] CancellationToken ct = default)
+    {
+        var queryEmbedding = await embeddingService.GetEmbeddingAsync(prompt, ct);
+
+        var candidates = (await productRepository.FindSimilarAsync(queryEmbedding, topN: 5, ct))
+            .Select(r => r.Product)
+            .ToList();
+
+        foreach (var product in candidates)
+        {
+            yield return ("product", new
+            {
+                product.Id,
+                product.Title,
+                product.Price,
+                product.Rating,
+                product.ImageUrl
+            });
+        }
+
+        await foreach (var chunk in llmService.StreamRecommendationsByPromptAsync(candidates, prompt, ct))
+        {
+            yield return ("reasoning", new { text = chunk });
+        }
+
+        yield return ("done", new { });
+    }
 }

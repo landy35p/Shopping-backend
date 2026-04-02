@@ -42,4 +42,24 @@ public class FakeLlmService : ILlmService
             yield return "\n";
         }
     }
+
+    public async IAsyncEnumerable<string> StreamRecommendationsByPromptAsync(
+        IReadOnlyList<Product> candidates,
+        string userPrompt,
+        [System.Runtime.CompilerServices.EnumeratorCancellation] CancellationToken ct = default)
+    {
+        foreach (var (product, index) in candidates.Select((p, i) => (p, i)))
+        {
+            var text = $"根據您的搜尋「{userPrompt}」，推薦 {product.Title}（{product.Rating:F1}星，NT${product.Price:F0}元）。";
+
+            foreach (var ch in text)
+            {
+                ct.ThrowIfCancellationRequested();
+                yield return ch.ToString();
+                await Task.Delay(CharDelayMs, ct);
+            }
+
+            yield return "\n";
+        }
+    }
 }

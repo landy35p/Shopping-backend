@@ -39,18 +39,23 @@ builder.Services.AddCors(options =>
 
 // ── LLM & Embedding (Strategy Pattern) ───────────────────────────────
 builder.Services.AddHttpClient();
+builder.Services.AddHttpClient("ollama", client =>
+{
+    // CPU-only 模式下 qwen2.5:7b 首個 token 可能超過 100s（預設值），設為 10 分鐘避免 TaskCanceledException
+    client.Timeout = TimeSpan.FromMinutes(10);
+});
 
 builder.Services.AddScoped<ILlmService>(sp =>
     llmSettings.Provider.ToLower() switch
     {
-        "ollama" => new OllamaLlmService(sp.GetRequiredService<IHttpClientFactory>().CreateClient(), llmSettings),
+        "ollama" => new OllamaLlmService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("ollama"), llmSettings),
         _ => new FakeLlmService()
     });
 
 builder.Services.AddScoped<IEmbeddingService>(sp =>
     embeddingSettings.Provider.ToLower() switch
     {
-        "ollama" => new OllamaEmbeddingService(sp.GetRequiredService<IHttpClientFactory>().CreateClient(), embeddingSettings),
+        "ollama" => new OllamaEmbeddingService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("ollama"), embeddingSettings),
         _ => new FakeEmbeddingService()
     });
 

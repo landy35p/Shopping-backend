@@ -32,4 +32,29 @@ public class RecommendationsController(RecommendationService recommendationServi
             await Response.Body.FlushAsync(ct);
         }
     }
+
+    [HttpGet("stream/search")]
+    public async Task StreamByPromptAsync([FromQuery] string prompt, CancellationToken ct)
+    {
+        if (string.IsNullOrWhiteSpace(prompt))
+        {
+            Response.StatusCode = StatusCodes.Status400BadRequest;
+            return;
+        }
+
+        Response.Headers.ContentType = "text/event-stream";
+        Response.Headers.CacheControl = "no-cache";
+        Response.Headers.Connection = "keep-alive";
+
+        await foreach (var (eventType, data) in recommendationService.StreamByPromptAsync(prompt, ct))
+        {
+            var json = JsonSerializer.Serialize(data, new JsonSerializerOptions
+            {
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            });
+
+            await Response.WriteAsync($"event: {eventType}\ndata: {json}\n\n", ct);
+            await Response.Body.FlushAsync(ct);
+        }
+    }
 }
