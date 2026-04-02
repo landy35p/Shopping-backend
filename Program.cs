@@ -44,11 +44,16 @@ builder.Services.AddHttpClient("ollama", client =>
     // CPU-only 模式下 qwen2.5:7b 首個 token 可能超過 100s（預設值），設為 10 分鐘避免 TaskCanceledException
     client.Timeout = TimeSpan.FromMinutes(10);
 });
+builder.Services.AddHttpClient("openai", client =>
+{
+    client.Timeout = TimeSpan.FromSeconds(60);
+});
 
 builder.Services.AddScoped<ILlmService>(sp =>
     llmSettings.Provider.ToLower() switch
     {
         "ollama" => new OllamaLlmService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("ollama"), llmSettings),
+        "openai" => new OpenAiLlmService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("openai"), llmSettings),
         _ => new FakeLlmService()
     });
 
