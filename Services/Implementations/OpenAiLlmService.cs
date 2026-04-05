@@ -109,6 +109,7 @@ public class OpenAiLlmService(HttpClient httpClient, LlmSettings settings) : ILl
             using (doc)
             {
                 if (!doc.RootElement.TryGetProperty("choices", out var choices)) continue;
+                if (choices.GetArrayLength() == 0) continue;
                 var delta = choices[0].GetProperty("delta");
                 if (!delta.TryGetProperty("content", out var content)) continue;
 
