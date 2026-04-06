@@ -61,6 +61,7 @@ builder.Services.AddScoped<IEmbeddingService>(sp =>
     embeddingSettings.Provider.ToLower() switch
     {
         "ollama" => new OllamaEmbeddingService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("ollama"), embeddingSettings),
+        "openai" => new OpenAiEmbeddingService(sp.GetRequiredService<IHttpClientFactory>().CreateClient("openai"), embeddingSettings),
         _ => new FakeEmbeddingService()
     });
 
